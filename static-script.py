@@ -1,4 +1,4 @@
-#!c:\python-hello-world\scripts\python.exe
+#!c:\ph-dev\scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'static3==0.7.0','console_scripts','static'
 __requires__ = 'static3==0.7.0'
 import re
